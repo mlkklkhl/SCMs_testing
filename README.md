@@ -5,6 +5,7 @@ This repository contains code for performing Structural Equation Modeling (SEM) 
 ## Requirements
 
 - Python 3.7+
+- Graphviz
 - Required packages listed in requirements.txt
 
 ## Installation
